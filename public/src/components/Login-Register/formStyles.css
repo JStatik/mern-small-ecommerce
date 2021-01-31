@@ -1,0 +1,9 @@
+.alert-error {
+    color: #990000;
+    font-size: 12px;
+    text-align: center;
+}
+
+.loading {
+    margin-left: 4px;
+}
